@@ -108,7 +108,6 @@ ol {
   width: 225px;
 }
 
-
 .search-form__fieldset-title-time {
   margin-left: 6px;
 }
@@ -175,11 +174,6 @@ ol {
   justify-content: space-around;
 }
 
-.search-form__checkbox {
-  
-}
-
-
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
   display: block;
   content: "";
@@ -194,10 +188,6 @@ ol {
   min-inline-size: 15px;
   min-block-size: 15px;
   background-color: #fff;
-}
-
-.search-form__pseudo-checkbox {
-  
 }
 
 .button {
@@ -348,16 +338,4 @@ ol {
 
 .more-button {
   inline-size: calc(100% - 4px);
-}
-
-.error-template {
-
-}
-
-.error {
-
-}
-
-.error__title {
-
 }
