@@ -204,6 +204,7 @@ ol {
   background-color: transparent;
   color: #fff;
   border: solid 1px #fff;
+  line-height: 30px;
 }
 
 .button:active {
@@ -223,7 +224,7 @@ ol {
 .search-form__submit-button {
   width: 194px;
   height: 34px;
-  margin-top: 20px;
+  margin-top: 21px;
 }
 
 .content__details {
@@ -236,7 +237,7 @@ ol {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 70.5px;
@@ -339,5 +340,7 @@ ol {
 }
 
 .more-button {
-  line-height: 34px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
